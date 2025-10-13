@@ -9,6 +9,10 @@
     <link rel="stylesheet" href="/css/layout.css">
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
+	
+<!-- TemplateBeginEditable name="page-head" -->
+	<!-- page-specific tags go here in child pages -->
+<!-- TemplateEndEditable -->
 </head>
 	
 <body>
