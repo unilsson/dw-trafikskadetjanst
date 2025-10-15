@@ -8,6 +8,12 @@ body {
 	box-sizing: border-box;
 }
 
+.page  {
+	width: 960px;
+	margin: 0 auto;
+	box-sizing: border-box;
+}
+
 .column {
   float: left;
   padding: 0px 0px 5px 0px;
@@ -16,13 +22,12 @@ body {
 .left, .right {
     /* flex: 1; /* Allows these columns to take up equal remaining space */
 	width: 15%;
-    background-color: #f0f0f0; /* Light gray background for visibility */
+    background-color: #ffffff; /* Light gray background for visibility */
 }
 
 .middle {
     width: 70%; /* Fixed width for the center column */
     background-color: #ffffff; /* White background */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional shadow for aesthetic */
 }
 
 /* Optional: Styling for content inside each column 
